@@ -55,3 +55,7 @@ app.listen(3000, () => {
 // }, (e) => {
 // 	console.log(e);
 // });
+
+module.exports = {
+	app
+};
